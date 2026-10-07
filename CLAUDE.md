@@ -14,10 +14,11 @@
 
 1. `docs/01-context-and-decisions.md` — 대화 흐름, 확정 사항, 열린 질문 (**가장 먼저**)
 2. `docs/05-methodology-research.md` — 주요 대학 성서학 교육·주해 방법론 조사 (가장 최근 논의)
-3. `docs/06-data-sources.md` — 히브리어·헬라어·한국어 공개 데이터와 라이선스
-4. `docs/04-roadmap.md` — 구축 단계
-5. `docs/03-architecture.md` — Google Drive / Turso / Vercel 구조
-6. `docs/02-reference-analysis.md` — 참고 사이트(Scriptorium AI) 분석, 스크린샷은 `docs/reference/screenshots/`
+3. `docs/07-authoritative-sources.md` — 가장 많이 쓰이고 권위 있는 원어 오픈 소스(라이선스 원문 확인)
+4. `docs/06-data-sources.md` — 히브리어·헬라어·한국어 공개 데이터와 라이선스
+5. `docs/04-roadmap.md` — 구축 단계
+6. `docs/03-architecture.md` — Google Drive / Turso / Vercel 구조
+7. `docs/02-reference-analysis.md` — 참고 사이트(Scriptorium AI) 분석, 스크린샷은 `docs/reference/screenshots/`
 
 ## 현재 위치
 
