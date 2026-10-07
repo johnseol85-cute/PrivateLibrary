@@ -55,9 +55,34 @@
 - **OSHB 라이선스**: 일부 목록엔 MIT로 적혀 있으나, 실제 LICENSE.md는 **본문 PD + 원형·형태소 CC BY 4.0**.
 - **MorphGNT**: CC BY-SA **3.0**으로 확인.
 
+## 5. GitHub 평가 (별 수, 2026-10-07 확인)
+
+> 별(★)은 "관심·북마크" 지표다. 이 분야는 사용자층이 작아 숫자가 크지 않고, 별이 많다고 학문적으로 정확하다는 뜻은 아니다. 그래서 1~4절의 권위 평가와 함께 본다.
+
+| ★ | 포크 | 저장소 | 내용 | 라이선스 | 판단 |
+|---:|---:|---|---|---|---|
+| 1.7k | 551 | scrollmapper/bible_databases | 번역본 140종 모음(WLC·비잔틴 본문 포함), DB/CSV/JSON | 코드 MIT, **본문별 라이선스 제각각** | ❌ 원어 분석 없음, 번역 모음용 |
+| 250 | 83 | **openscriptures/morphhb** (OSHB) | 히브리어 WLC + 원형·형태소 | PD + CC BY 4.0 | ✅ 원어 데이터 1위 |
+| 205 | 64 | **STEPBible/STEPBible-Data** | TAHOT·TAGNT·간편 사전·고유명사 | CC BY 4.0 | ✅ |
+| 184 | 50 | eliranwong/UniqueBible | 성경 **앱**(데이터 아님) | — | 참고(기능 아이디어) |
+| 155 | 43 | **morphgnt/sblgnt** | SBLGNT 형태소 | CC BY-SA 3.0 | △ (BY-SA) |
+| 154 | 61 | **openscriptures/HebrewLexicon** | BDB 히브리어 사전 등 | 원 저장소 확인 필요 | ✅ 사전 |
+| 130 | 23 | eliranwong/OpenGNT | 헬라어 신약 + 대역 | CC BY-NC-SA | ❌ 비상업 |
+| 119 | 38 | **LogosBible/SBLGNT** | SBLGNT 원본 | CC BY 4.0 | ✅ 본문 기준 |
+| 86 | 27 | annotation/text-fabric | BHSA를 다루는 파이썬 도구 | — | 참고 |
+| 81 | 13 | eliranwong/OpenHebrewBible | BHS↔WLC 정렬 | CC BY-NC | ❌ 비상업 |
+| 77 | 36 | ETCBC/bhsa | 히브리어 언어학 DB | CC BY-NC 4.0 | ⏸ 연구용 |
+| 75 | 49 | STEPBible/step | STEPBible 사이트 코드 | — | 참고(기능 아이디어) |
+| 68 | 18 | Clear-Bible/macula-hebrew | 히브리어 구문 트리 | CC BY 4.0 | ✅ 나중 |
+| 63 | 14 | Clear-Bible/macula-greek | 헬라어 구문 트리 | CC BY 4.0 | ✅ 나중 |
+| 26 | 10 | biblicalhumanities/Nestle1904 | 네슬레 1904 + 형태소 | PD / CC BY 4.0 | △ 비교 |
+
+**결론**: 원어 데이터만 놓고 보면 별 수 상위(OSHB, STEPBible, MorphGNT, HebrewLexicon, SBLGNT)가 3절의 핵심 세트와 그대로 겹친다. 평판과 권위가 같은 방향을 가리킨다.
+
 ## 출처
 
 - 직접 확인한 원문: [morphhb LICENSE](https://github.com/openscriptures/morphhb/blob/master/LICENSE.md) · [LogosBible/SBLGNT README](https://github.com/LogosBible/SBLGNT) · [morphgnt/sblgnt README](https://github.com/morphgnt/sblgnt) · [MACULA Greek LICENSE](https://github.com/Clear-Bible/macula-greek/blob/main/LICENSE.md) · [MACULA Hebrew LICENSE](https://github.com/Clear-Bible/macula-hebrew/blob/main/LICENSE.md) · [ETCBC BHSA README](https://github.com/ETCBC/bhsa) · [STEPBible-Data README](https://github.com/STEPBible/STEPBible-Data)
+- GitHub 저장소 페이지(별·포크 수, 2026-10-07)
 - [Nida Institute, Awesome Biblical Data](https://github.com/nida-institute/awesome-biblical-data)
 - [sblgnt.com](https://sblgnt.com/) · [SBLGNT 소개](https://sblgnt.com/about/introduction) · [B-Greek 2010 (NA27과 542곳 차이)](https://www.ibiblio.org/bgreek/lists.ibiblio.org/2010-October/054698.html) · [hypotyposeis: SBLGNT 장치](https://hypotyposeis.org/weblog/thoughts-on-the-sblgnt-apparatus/)
 - [eBible WLC 저작권](https://ebible.org/hboWLC/copyright.htm) · [Blue Letter Bible WLC](https://www.blueletterbible.org/wlc/2ch/5) · [tanach.us Supplements](https://tanach.us/Pages/Supplements.html)
