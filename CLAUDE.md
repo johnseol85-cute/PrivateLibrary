@@ -19,6 +19,7 @@
 5. `docs/04-roadmap.md` — 구축 단계
 6. `docs/03-architecture.md` — Google Drive / Turso / Vercel 구조
 7. `docs/02-reference-analysis.md` — 참고 사이트(Scriptorium AI) 분석, 스크린샷은 `docs/reference/screenshots/`
+8. `docs/08-claude-md-research.md` — CLAUDE.md 작성 원칙과 인문·신학 저장소 사례
 
 ## 현재 위치
 
